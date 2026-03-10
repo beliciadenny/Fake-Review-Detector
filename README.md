@@ -15,6 +15,9 @@ This project builds a classifier to automatically flag suspicious reviews.
 ## 📂 Dataset
 Kaggle — Fake Reviews Dataset (40,000 reviews, 50% fake / 50% real)
 
+## 🌐 Live Demo
+👉 [https://fake-review-detector-enpfumjyh4c6ckupxexppl.streamlit.app/]
+
 ## 🚀 How to Run
 pip install -r requirements.txt
 jupyter notebook fake_review_detector.ipynb
