@@ -1,8 +1,6 @@
 pandas
 numpy
-matplotlib
-seaborn
 scikit-learn
 scipy
-jupyter
 streamlit
+altair==4.2.2
